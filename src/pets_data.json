@@ -1,0 +1,110 @@
+[
+    {
+      "id": 0,
+      "name": "Romeo",
+      "photo": "images/corgi1.jpg",
+      "age": 0.5,
+      "animal_type":"Dog",
+      "behavior":"Loving",
+      "color":"Brown & White"
+    },
+    {
+      "id": 1,
+      "name": "Scooby",
+      "photo": "images/retriver2.jpg",
+      "age": 0.4,
+      "animal_type":"Dog",
+      "behavior":"Cuddly",
+      "color":"Golden Brown"
+    },
+    {
+      "id": 2,
+      "name": "Rottweiler",
+      "photo": "images/Rottweiler3.jpg",
+      "age": 1,
+      "animal_type":"Dog",
+      "behavior":"Agressive",
+      "color":"Black"
+    },
+    {
+        "id": 3,
+        "name": "Poodle",
+        "photo": "images/Poodle4.jpg",
+        "age": 1,
+        "animal_type":"Dog",
+        "behavior":"Sophisticated",
+        "color":"Light Brown"
+    },
+    {
+        "id": 4,
+        "name": "Juniper",
+        "photo": "images/juniper5.jpg",
+        "age": 2,
+        "animal_type":"Dog",
+        "behavior":"Smart",
+        "color":"Orange & White"
+    },
+    {
+        "id": 5,
+        "name": "Pomeranian",
+        "photo": "images/Pomeranian5.jpg",
+        "age": 0.7,
+        "animal_type":"Dog",
+        "behavior":"Loves attention",
+        "color":"White"
+    },
+    {
+        "id": 6,
+        "name": "Tuna",
+        "photo": "images/tuna7.jpg",
+        "age": 3,
+        "animal_type":"Dog",
+        "behavior":"Photogenic",
+        "color":"Golden"
+    },
+    {
+        "id": 7,
+        "name": "Shih-Tzu",
+        "photo": "images/Shih-Tzu8.jpg",
+        "age": 2,
+        "animal_type":"Dog",
+        "behavior":"Loves to eat",
+        "color":"White n Black"
+    },
+    {
+        "id": 8,
+        "name": "Loki",
+        "photo": "images/loki9.jpg",
+        "age": 3,
+        "animal_type":"Dog",
+        "behavior":"Mischievous",
+        "color":"Grey & White"
+    },
+    {
+        "id": 9,
+        "name": "Maltese",
+        "photo": "images/Maltese9.jpg",
+        "age": 1,
+        "animal_type":"Dog",
+        "behavior":"Caring",
+        "color":"White"
+    },
+    {
+        "id": 10,
+        "name": "Chihuahua",
+        "photo": "images/Chihuahua10.jpg",
+        "age": 10,
+        "animal_type":"Dog",
+        "behavior":"Extrovert",
+        "color":"Cream"
+    },
+    {
+        "id": 11,
+        "name": "Shepherd",
+        "photo": "images/German-Shepherd-Dog1.jpg",
+        "age": 0.5,
+        "animal_type":"Dog",
+        "behavior":"Attentive",
+        "color":"Golden"
+    }
+  ]
